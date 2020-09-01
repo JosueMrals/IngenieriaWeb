@@ -16,3 +16,11 @@ Los lenguajes para la información estática son:
 * HTML
 * CSS
 * JavaScript
+
+
+### Etiquetas
+las etiquetas funcionan con etiquetas de apertura y de cierre, aunque no siempre habra una etiqueta de cierre por ejemplo: 
+```
+<p>Asies un parrafo</p>
+Asi es un salto de linea <br/>
+```

@@ -1,14 +1,16 @@
 ## Apuntes de la clase HTML
 la estructura de un sitio web es:
 
-<pre>
+```<!DOCTYPE html>
+
 <html>
     <head>
+        <title>Mi Primera pagina web</title>
     </head>
     <body>
     </body>
 </html>
-</pre>
+```
 
 Los lenguajes para la información estática son:  
 * HTML
